@@ -1,7 +1,7 @@
 interface eventsReturnType {
-    removed: string, 
-    blockNumber: string, 
-    transactionHash: string, 
+    removed: string,
+    blockNumber: string,
+    transactionHash: string,
     returnValues: string;
 }
 
